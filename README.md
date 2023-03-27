@@ -7,7 +7,7 @@
   <br>
 </h2>
 
-?branch=[![Netlify Status](https://api.netlify.com/api/v1/badges/c279d7ac-f7a4-4fab-a3cc-8ff04f227ce6/deploy-status)](https://app.netlify.com/sites/pranavpraveen/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c279d7ac-f7a4-4fab-a3cc-8ff04f227ce6/deploy-status)](https://app.netlify.com/sites/pranavpraveen/deploys)
 
 ## Features
 
