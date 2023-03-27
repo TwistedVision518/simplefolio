@@ -1,4 +1,4 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
+# Techiefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/TwistedVision518/techiefolio)
 
 ## A minimal portfolio template for Developers!
 
@@ -6,6 +6,8 @@
   <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
   <br>
 </h2>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c279d7ac-f7a4-4fab-a3cc-8ff04f227ce6/deploy-status)](https://app.netlify.com/sites/pranavpraveen/deploys)
 
 ## Features
 
@@ -17,7 +19,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+To view the demo: **[click here](https://pranavpraveen.netlify.app/)**
 
 ---
 
@@ -55,10 +57,10 @@ From your command line, first clone Simplefolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/cobiwave/simplefolio
+$ git clone https://github.com/TwistedVision518/techiefolio/
 
 # Move into the repository
-$ cd simplefolio
+$ cd techiefolio
 
 # Remove the current origin repository
 $ git remote remove origin
@@ -124,7 +126,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
     <h1 class="hero-title load-hidden">
       Hi, my name is <span class="text-color-main">Your Name</span>
       <br />
-      I'm the Unknown Developer.
+      I'm Pranav Praveen.
     </h1>
     <p class="hero-cta load-hidden">
       <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about">
@@ -345,11 +347,10 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobiwave](https://github.com/cobiwave)
+- **Pranav Praveen a.k.a TwistedVision518** - [https://github.com/TwistedVision518](https://github.com/TwistedVision518)
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
 
 ## License 📄
 
@@ -357,4 +358,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments 🎁
 
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+I was motivated to create this project because I wanted to contribute on something useful for the dev community.
